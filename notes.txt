@@ -1,0 +1,14 @@
+Fonts for sites
+
+<link href="https://fonts.googleapis.com/css?family=Arvo:400,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Cuprum&display=swap" rel="stylesheet">
+
+
+
+ref.
+http://puzzlerbox.com/vim/home-pages/consulting-group/#
+http://preview.themeforest.net/item/corpus-responsive-corporate-wordpress-theme/full_screen_preview/12058874?ref=cirvitis
+https://undsgn.com/uncode/homepages/creative-designers/#
+http://preview.themeforest.net/item/pixzlo-creative-theme-for-professionals/full_screen_preview/22918764?ref=cirvitis
